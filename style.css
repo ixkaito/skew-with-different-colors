@@ -16,6 +16,18 @@ body {
 	z-index: 0;
 }
 
+.section-2:before {
+	background: #fff;
+	bottom: 0;
+	content: "";
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transform: skewY(-7deg);
+	z-index: -1;
+}
+
 .section-3 {
 	background: #f6bb42;
 }
