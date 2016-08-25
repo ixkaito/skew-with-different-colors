@@ -11,7 +11,9 @@ body {
 }
 
 .section-2 {
-	background: #fff;
+	background: linear-gradient(#3bafda 50%, #f6bb42 50%);
+	position: relative;
+	z-index: 0;
 }
 
 .section-3 {
