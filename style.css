@@ -1,0 +1,19 @@
+body {
+	background: #656d78;
+}
+
+.section {
+	min-height: 320px;
+}
+
+.section-1 {
+	background: #3bafda;
+}
+
+.section-2 {
+	background: #fff;
+}
+
+.section-3 {
+	background: #f6bb42;
+}
